@@ -1,12 +1,12 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-        <meta http-equiv="Content-Type" content="text/html charset=UTF-8" dir="ltr">
-        <meta name="author" content="Arif & Asyraf">
-        <meta name="title" content="RealEdu">
-        <meta name="description" content="RealEdu is a website to unify education">
-        <meta name="viewport" content="width=device-width initial-scale=1.0">
-        <title>RealEdu</title>
+		<meta http-equiv="Content-Type" content="text/html charset=UTF-8" dir="ltr">
+		<meta name="author" content="Arif & Asyraf">
+		<meta name="title" content="RealEdu">
+		<meta name="description" content="RealEdu is a website to unify education">
+		<meta name="viewport" content="width=device-width initial-scale=1.0">
+		<title>RealEdu</title>
 		<link rel="stylesheet" href="../resources/stylesheet.css">
 		<link rel="shortcut icon" href="../resources/favicon.png">
 	</head>
